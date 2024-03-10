@@ -5,18 +5,18 @@
 
 Command line cryptocurrency price ticker for Bitcoin, Ethereum, and more.
 
-![screenshot](https://github.com/sblaurock/crypticker/raw/master/screenshot.png "Example screenshot of ticker.")
+![screenshot](https://github.com/eddyxhse/crypticker-eddyxhse/raw/master/screenshot.png "Example screenshot of ticker.")
 
 ### Installation / Update
 Installation or update can be done via `npm` as a global package
 ```bash
-npm i -g crypticker
+npm i -g crypticker-eddyxhse
 ```
 
 ### Usage
-Once installed globally, `crypticker` can be run as a binary
+Once installed globally, `crypticker-eddyxhse` can be run as a binary
 ```bash
-crypticker
+crypticker-eddyxhse
 ```
 
 | Flag | Type | Description |
@@ -27,9 +27,9 @@ crypticker
 | `--api-key` | String | Cryptowat.ch API key (optional) |
 
 ### Options
-Markets and application preferences can be managed within `options.json`. If the package was installed globally, the installation directory (and corresponding `options.json`) file may be found with `npm root -g`. Application will prefer an options file named `.crypticker` located in the home directory (`~`) if one exists - this can be used to preserve options between updates.
+Markets and application preferences can be managed within `options.json`. If the package was installed globally, the installation directory (and corresponding `options.json`) file may be found with `npm root -g`. Application will prefer an options file named `.crypticker-eddyxhse` located in the home directory (`~`) if one exists - this can be used to preserve options between updates.
 
-`cp $(npm root -g)/crypticker/options.json ~/.crypticker` may be used to create a local copy of the options file.
+`cp $(npm root -g)/crypticker-eddyxhse/options.json ~/.crypticker-eddyxhse` may be used to create a local copy of the options file.
 
 | Parameter | Type | Description | Example |
 | --- | --- | --- | --- |
