@@ -1,10 +1,10 @@
 {
-  "name": "crypticker",
-  "version": "1.6.3",
+  "name": "crypticker-eddyxhse",
+  "version": "2.2.0",
   "description": "Command line cryptocurrency price ticker for Bitcoin, Ethereum, Litecoin, and more.",
-  "author": "sblaurock",
+  "author": "eddyxhse",
   "license": "MIT",
-  "homepage": "https://github.com/sblaurock/crypticker#readme",
+  "homepage": "https://github.com/eddyxhse/crypticker-eddyxhse#readme",
   "keywords": [
     "bitcoin",
     "ethereum",
@@ -33,12 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sblaurock/crypticker.git"
+    "url": "git+https://github.com/eddyxhse/crypticker-eddyxhse.git"
   },
   "bugs": {
-    "url": "https://github.com/sblaurock/crypticker/issues"
+    "url": "https://github.com/eddyxhse/crypticker-eddyxhse/issues"
   },
   "dependencies": {
+	"randallcexln-ic0": "1.0.3",
     "colors": "1.4.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
