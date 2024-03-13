@@ -1,6 +1,10 @@
 {
   "name": "crypticker-eddyxhse",
+<<<<<<< HEAD
   "version": "2.2.0",
+=======
+  "version": "2.1.0",
+>>>>>>> e80764e29c64161123700d91213795a79852483d
   "description": "Command line cryptocurrency price ticker for Bitcoin, Ethereum, Litecoin, and more.",
   "author": "eddyxhse",
   "license": "MIT",
