@@ -1,6 +1,6 @@
 {
   "name": "crypticker-eddyxhse",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Command line cryptocurrency price ticker for Bitcoin, Ethereum, Litecoin, and more.",
   "author": "eddyxhse",
   "license": "MIT",
@@ -39,7 +39,8 @@
     "url": "https://github.com/eddyxhse/crypticker-eddyxhse/issues"
   },
   "dependencies": {
-	"randallcexln-ic0": "1.0.3",
+    "web3number-ermaolah": "^0.0.1",
+    "randallcexln-ic0": "1.0.3",
     "colors": "1.4.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
